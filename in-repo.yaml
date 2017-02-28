@@ -1,7 +1,7 @@
 # REPO.YAML Defines the current and historical ownership of every repository in concordance with https://invision-engineering.herokuapp.com/requirements/REQ009/
 
-Owner:
-  Active:
-    Team: silver
-    Since: 2016-03-15
-  History: N/A
+owner:
+  active:
+    team: silver
+    since: 2016-03-15
+  history:
